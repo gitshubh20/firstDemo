@@ -11,7 +11,7 @@ public class App
        res.setId(01L);
        res.setName("Radission Blu");
        res.setAverageprice(5000L);
-       res.setType("Veg");
+       res.setType("NonVeg");
        res.setRating(4);
        res.setContactnumber(97654L);
     }
